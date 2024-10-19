@@ -18,8 +18,6 @@ function nombredediscos(autor, nombrepista,duración){
     this.duracion = duración;
 }
 
-nuevodisco
-
 
 /*
 Portada 
@@ -36,4 +34,4 @@ function cargarDisco () {
 function mostrarDisco() {
     console.log("El nombre del disco es $(nombredeldisco)";
 }
-    */
+*/
