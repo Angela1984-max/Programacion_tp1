@@ -12,14 +12,13 @@ La duración de cada pista debe estar entre 0 y 7200 (segundos) inclusive.
 /*
 const nombredediscos = ["Please Please Me"; "With the Beatles"; "A Hard Day's Night"; "Beatles for Sale"];
 */
-
 function nombredediscos(autor, nombrepista,duración){
     this.autor = autor;
     this.nombrepista = nombrepista;
     this.duracion = duración;
 }
 
-
+nuevodisco
 
 
 /*

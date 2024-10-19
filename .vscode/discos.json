@@ -1,0 +1,44 @@
+
+[
+    {
+        "nombredisco1": "Please Please Me",
+        "autor": "The Beatles",
+        "duración": "32:16 min",
+        "portada": "https://es.wikipedia.org/wiki/Please_Please_Me#/media/Archivo:Parlophone_LP_PMC_1202.jpg",
+        "pista1": "I Saw Her Standing There",
+        "pista2": "Misery",
+        "pista3": "Anna",
+        "pista4": "Chains",
+        
+    },
+    {
+        "nombredisco2": "With the Beatles",
+        "autor": "The Beatles",
+        "duración": "33.17 min",
+        "portada": "https://en.wikipedia.org/wiki/With_the_Beatles#/media/File:With_the_Beatles.png",
+        "pista5": "It Won´t Be Long",
+        "pista6": "All I´ve Got to Do",
+        "pista7": "All My Loving",
+        "pista8": "Don´t Bother Me",
+    },
+    {
+        "nombredisco3": "A Hard Day's Night",
+        "autor": "The Beatles",
+        "duración": "30.45 min",
+        "portada": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night_%28album%29#/media/File:HardDayUK.jpg",
+        "pista9": "A Hard Day´s Night",
+        "pista10": "I Should Have Known Better",
+        "pista11": "If I Fell",
+        "pista12": "Tell Me Why",
+    },
+    {
+        "nombredisco4": "Beatles for Sale",
+        "autor": "The Beatles",
+        "duración": "34.15 min",
+        "portada": "https://en.wikipedia.org/wiki/Beatles_for_Sale#/media/File:Beatlesforsale.jpg",
+        "pista13": "No Reply",
+        "pista14": "I´m A loser",
+        "pista15": "Baby´s in Black",
+        "pista16": "ChRock and Roll Music",
+    },
+]
