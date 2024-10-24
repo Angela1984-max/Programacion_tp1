@@ -1,7 +1,7 @@
 
 [
     {
-        "nombredisco1": "Please Please Me",
+        "nombredisco": "Please Please Me",
         "autor": "The Beatles",
         "duración": "32:16 min",
         "portada": "https://es.wikipedia.org/wiki/Please_Please_Me#/media/Archivo:Parlophone_LP_PMC_1202.jpg",
@@ -12,7 +12,7 @@
         
     },
     {  
-        "nombredisco2": "With the Beatles",
+        "nombredisco": "With the Beatles",
         "autor": "The Beatles",
         "duración": "33.17 min",
         "portada": "https://en.wikipedia.org/wiki/With_the_Beatles#/media/File:With_the_Beatles.png",
