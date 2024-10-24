@@ -3,22 +3,22 @@ function validarPista(msg =""){
     let datoValido;
 
     //variable auxiliar
-    let práctico;
+    let practico;
 
     do {
         //pido y valido el nombre de la pista
-        práctico = prompt("msg");
+        practico = prompt("msg");
 
         //valido que no sea un numero
-        if(!isNan(práctico)) {
+        if(!isNan(practico)) {
             alert("Ingrese texto");
             datoValido = false;
         }
-            else if(práctico === null) {
+            else if(practico === null) {
             alert("Por favor, complete el campo");
             datoValido = false;
         }
-            else if(práctico.trim() === "") {
+            else if(practico.trim() === "") {
             alert("Por favor, no deje el campo vacio");
             datoValido = false;
         }
@@ -27,24 +27,24 @@ function validarPista(msg =""){
         }
       } while(!datoValido);
     //devuelvo el dato validado
-      return práctico;
+      return practico;
     }
 
-    function validarDuraciónPista(msg =""){
+    function validarDuracionPista(msg =""){
         
         //booleano para validar
         let datoValido;
         //variable auxiliar
-        let práctico;
+        let practico;
 
             do {
-                práctico = parseInt(prompt(msg =""));
+                practico = parseInt(prompt(msg =""));
                 //Validaciones
-                if(isNaN(práctico)) {
+                if(isNaN(practico)) {
                     alert("Por favor, ingrese números");
                     datoValido = false;
                 }
-                else if(práctico > 0 || códigoDisco < 7200){
+                else if(practico > 0 || codigoDisco < 7200){
                     alert("Por favor, la duración de la pista debe ser mayor a 0 y menor a 7200 segundos");
                     datoValido = false;
                 }
@@ -53,27 +53,27 @@ function validarPista(msg =""){
                 }
               } while (!datoValido);
 
-              return práctico;
+              return practico;
         }
 
      function validarAutor(msg =""){
             //booleano para validar
         let datoValido;
             //variable auxiliar
-        let práctico; 
+        let practico; 
 
          do{
             autor = prompt (msg ="");
 
-        if(!isNan(práctico)) {
+        if(!isNan(practico)) {
             alert("Ingrese texto");
             datoValido = false;
 }
-        else if(práctico === null) {
+        else if(practico === null) {
             alert("Por favor, complete el campo");
             datoValido = false;
 }
-        else if(práctico.trim() === "") {
+        else if(practico.trim() === "") {
             alert("Por favor, no deje el campo vacio");
             datoValido = false;
 }
@@ -82,23 +82,23 @@ function validarPista(msg =""){
 
         }while(!datoValido);
     
-        return práctico;
+        return practico;
 }
-        function validarCódigoDisco(msg ="") {
+    function validarCodigoDisco(msg ="") {
         //booleano para validar
         let datoValido;
         //variable auxiliar
-        let práctico;
+        let practico;
      
              do{ 
-                práctico = parseInt(prompt(msg =""));
+                practico = parseInt(prompt(msg =""));
 
-             if(isNaN(práctico)) {
+             if(isNaN(practico)) {
                 alert("Por favor, ingrese números");
                 datoValido = false;
 
             }
-            else if(práctico > 1 || práctico < 999){
+            else if(practico > 1 || practico < 999){
             alert("Por favor, El código del disco debe ser mayor a 1 y menor a 999");
             datoValido = false;
     
@@ -108,5 +108,5 @@ function validarPista(msg =""){
     
             }while (!datoValido);
     
-            return práctico;
+            return practico;
          }

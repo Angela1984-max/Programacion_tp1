@@ -9,10 +9,10 @@ function cargarDisco(){
       autor.push(autor);
 
       //pido código del disco y valido
-      let códigoDisco = validarcódigodisco("Ingrese el código del $(disco)");
+      let codigoDisco = validarcodigodisco("Ingrese el código del $(disco)");
       
       //guardo el código del disco en su array
-      códigoDisco.push(códigoDisco);
+      codigoDisco.push(codigoDisco);
  
 }
 
@@ -26,10 +26,10 @@ function cargarPista(){
 
         //pido duración de pista y valido
         
-        let duraciónPista = validarduraciónPista("Ingrese la duración de la $(pista)");
+        let duracionPista = validarduracionPista("Ingrese la duración de la $(pista)");
         
         //guardo la duración de pista en su array
-        duraciónPista.push(duraciónPista);
+        duracionPista.push(duracionPista);
        
 }
     function mostrarDisco(){

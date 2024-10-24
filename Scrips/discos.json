@@ -3,22 +3,22 @@
     {
         "nombredisco": "Please Please Me",
         "autor": "The Beatles",
-        "duración": "32:16 min",
+        "duracion": "32:16 min",
         "portada": "https://es.wikipedia.org/wiki/Please_Please_Me#/media/Archivo:Parlophone_LP_PMC_1202.jpg",
-        "pista1": "I Saw Her Standing There",
-        "pista2": "Misery",
-        "pista3": "Anna",
-        "pista4": "Chains"
+        "p1": "I Saw Her Standing There",
+        "p2": "Misery",
+        "p3": "Anna",
+        "p4": "Chains"
         
     },
     {  
         "nombredisco": "With the Beatles",
         "autor": "The Beatles",
-        "duración": "33.17 min",
+        "duracion": "33.17 min",
         "portada": "https://en.wikipedia.org/wiki/With_the_Beatles#/media/File:With_the_Beatles.png",
-        "pista5": "It Won´t Be Long",
-        "pista6": "All I´ve Got to Do",
-        "pista7": "All My Loving",
-        "pista8": "Don´t Bother Me"
+        "p5": "It Won´t Be Long",
+        "p6": "All I´ve Got to Do",
+        "p7": "All My Loving",
+        "p8": "Don´t Bother Me"
     }
 ]
